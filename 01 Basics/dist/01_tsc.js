@@ -19,4 +19,4 @@ console.log(number >= 18 && hasTicket);
 console.log(number < 18 && !hasTicket);
 console.log(number);
 export {};
-//# sourceMappingURL=main.js.map
+//# sourceMappingURL=01_tsc.js.map
